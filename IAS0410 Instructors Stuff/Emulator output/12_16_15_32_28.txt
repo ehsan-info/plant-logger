@@ -1,0 +1,99 @@
+
+Measurement results at 2020-12-16 15:32:41
+Furnace:
+Inside temperature: 891.489°C
+Gas inlet flow: 3.80553m³/s
+Gas outlet flow: 6.04255m³/s
+Mixer:
+NO input flow: 7.40833m³/s
+O2 input flow: 0.330074m³/s
+N2 input flow: 10.3127m³/s
+Output flow: 17.504m³/s
+Bubbler:
+Temperature: 62.1728°C
+Level: 56%
+Cooler:
+Input flow: 12.6401m³/s
+Output flow: 13.891m³/s
+Input temperature: 836.338°C
+Output temperature: 83.876°C
+
+Measurement results at 2020-12-16 15:32:44
+Bubbler:
+Level: 86%
+Cooler:
+Output flow: 12.5542m³/s
+Input temperature: 835.608°C
+Output temperature: 87.4874°C
+
+Measurement results at 2020-12-16 15:32:44
+Bubbler:
+Level: 86%
+Cooler:
+Output flow: 12.5542m³/s
+Input temperature: 835.608°C
+Output temperature: 87.4874°C
+
+Measurement results at 2020-12-16 15:32:47
+Furnace:
+Inside temperature: 935.367°C
+Gas outlet flow: 5.21296m³/s
+
+Measurement results at 2020-12-16 15:32:51
+Furnace:
+Gas inlet flow: 4.49346m³/s
+
+Measurement results at 2020-12-16 15:33:07
+Furnace:
+Inside temperature: 970.658°C
+Gas inlet flow: 3.72235m³/s
+Gas outlet flow: 3.95932m³/s
+Mixer:
+NO input flow: 0.244888m³/s
+O2 input flow: 8.33449m³/s
+N2 input flow: 7.97338m³/s
+Output flow: 10.1136m³/s
+Bubbler:
+Temperature: 60.1902°C
+Level: 60%
+Cooler:
+Input flow: 5.19541m³/s
+Output flow: 8.74825m³/s
+Input temperature: 940.877°C
+Output temperature: 97.8221°C
+
+Measurement results at 2020-12-16 15:33:08
+Bubbler:
+Temperature: 57.1866°C
+
+Measurement results at 2020-12-16 15:33:24
+Mixer:
+NO input flow: 5.13058m³/s
+Cooler:
+Input flow: 2.29593m³/s
+Output flow: 13.6121m³/s
+Input temperature: 900.174°C
+
+Measurement results at 2020-12-16 15:33:25
+Bubbler:
+Level: 92%
+
+Measurement results at 2020-12-16 15:33:26
+Bubbler:
+Temperature: 50.6497°C
+Cooler:
+Input temperature: 990.03°C
+
+Measurement results at 2020-12-16 15:33:28
+Furnace:
+Inside temperature: 833.553°C
+Gas inlet flow: 4.14399m³/s
+Gas outlet flow: 3.653m³/s
+Mixer:
+NO input flow: 4.29836m³/s
+Output flow: 9.22803m³/s
+Bubbler:
+Temperature: 74.2897°C
+Cooler:
+Output flow: 2.51844m³/s
+Input temperature: 886.273°C

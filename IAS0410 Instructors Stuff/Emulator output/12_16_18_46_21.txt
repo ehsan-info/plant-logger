@@ -1,0 +1,311 @@
+
+Measurement results at 2020-12-16 18:46:43
+Furnace:
+Inside temperature: 973.142°C
+Gas inlet flow: 4.15106m³/s
+Gas outlet flow: 3.89534m³/s
+Mixer:
+NO input flow: 2.93476m³/s
+O2 input flow: 14.4793m³/s
+N2 input flow: 3.69127m³/s
+Output flow: 20.9502m³/s
+Bubbler:
+Temperature: 83.4781°C
+Level: 93%
+Cooler:
+Input flow: 0.735823m³/s
+Output flow: 11.3766m³/s
+Input temperature: 806.424°C
+Output temperature: 81.6701°C
+
+Measurement results at 2020-12-16 18:46:46
+Furnace:
+Gas outlet flow: 2.72494m³/s
+Mixer:
+NO input flow: 5.82397m³/s
+O2 input flow: 3.52883m³/s
+N2 input flow: 3.95512m³/s
+Output flow: 13.3825m³/s
+Bubbler:
+Temperature: 60.1416°C
+Level: 74%
+
+Measurement results at 2020-12-16 18:46:47
+Furnace:
+Inside temperature: 926.237°C
+
+Measurement results at 2020-12-16 18:46:57
+Furnace:
+Inside temperature: 989.541°C
+Gas inlet flow: 3.57588m³/s
+Gas outlet flow: 6.04928m³/s
+Mixer:
+NO input flow: 10.9854m³/s
+O2 input flow: 4.99316m³/s
+N2 input flow: 10.3891m³/s
+Output flow: 3.99272m³/s
+Bubbler:
+Temperature: 64.4361°C
+Level: 94%
+Cooler:
+Input flow: 7.41811m³/s
+Output flow: 10.2544m³/s
+Input temperature: 994.395°C
+Output temperature: 93.3678°C
+
+Measurement results at 2020-12-16 18:46:59
+Mixer:
+NO input flow: 0.269653m³/s
+O2 input flow: 12.4022m³/s
+N2 input flow: 2.65607m³/s
+Cooler:
+Input flow: 4.85167m³/s
+Input temperature: 970.43°C
+
+Measurement results at 2020-12-16 18:47:00
+Mixer:
+N2 input flow: 11.496m³/s
+Output flow: 8.36318m³/s
+Cooler:
+Output temperature: 88.0195°C
+
+Measurement results at 2020-12-16 18:47:02
+Cooler:
+Input flow: 6.74086m³/s
+Output temperature: 97.7945°C
+
+Measurement results at 2020-12-16 18:47:12
+Furnace:
+Gas outlet flow: 5.62337m³/s
+Mixer:
+Output flow: 7.40631m³/s
+Cooler:
+Output flow: 4.25195m³/s
+Input temperature: 954.82°C
+
+Measurement results at 2020-12-16 18:47:13
+Bubbler:
+Level: 79%
+Cooler:
+Input flow: 9.10236m³/s
+Output temperature: 83.4729°C
+
+Measurement results at 2020-12-16 18:47:13
+Bubbler:
+Level: 79%
+Cooler:
+Input flow: 9.10236m³/s
+Output temperature: 83.4729°C
+
+Measurement results at 2020-12-16 18:47:13
+Bubbler:
+Level: 79%
+Cooler:
+Input flow: 9.10236m³/s
+Output temperature: 83.4729°C
+
+Measurement results at 2020-12-16 18:47:15
+Furnace:
+Inside temperature: 987.607°C
+Gas outlet flow: 6.40499m³/s
+Cooler:
+Output flow: 6.98269m³/s
+
+Measurement results at 2020-12-16 18:47:17
+Mixer:
+Output flow: 13.9913m³/s
+Cooler:
+Output temperature: 88.3317°C
+
+Measurement results at 2020-12-16 18:47:17
+Mixer:
+Output flow: 13.9913m³/s
+Cooler:
+Output temperature: 88.3317°C
+
+Measurement results at 2020-12-16 18:47:18
+Furnace:
+Gas inlet flow: 3.75459m³/s
+Bubbler:
+Level: 58%
+Cooler:
+Output flow: 12.109m³/s
+
+Measurement results at 2020-12-16 18:47:18
+Furnace:
+Gas inlet flow: 3.75459m³/s
+Bubbler:
+Level: 58%
+Cooler:
+Output flow: 12.109m³/s
+
+Measurement results at 2020-12-16 18:47:19
+Mixer:
+NO input flow: 9.93574m³/s
+Output flow: 22.4341m³/s
+Cooler:
+Output temperature: 92.8977°C
+
+Measurement results at 2020-12-16 18:47:21
+Mixer:
+NO input flow: 10.9016m³/s
+O2 input flow: 10.5463m³/s
+Cooler:
+Output flow: 0.356307m³/s
+Input temperature: 991.35°C
+
+Measurement results at 2020-12-16 18:47:21
+Mixer:
+NO input flow: 10.9016m³/s
+O2 input flow: 10.5463m³/s
+Cooler:
+Output flow: 0.356307m³/s
+Input temperature: 991.35°C
+
+Measurement results at 2020-12-16 18:47:24
+Cooler:
+Input flow: 11.8951m³/s
+Input temperature: 802.49°C
+Output temperature: 98.7588°C
+
+Measurement results at 2020-12-16 18:47:25
+Furnace:
+Inside temperature: 899.804°C
+Gas outlet flow: 4.64607m³/s
+
+Measurement results at 2020-12-16 18:47:26
+Bubbler:
+Temperature: 55.0691°C
+Level: 95%
+Cooler:
+Input flow: 0.904232m³/s
+Output flow: 5.04852m³/s
+
+Measurement results at 2020-12-16 18:47:27
+Mixer:
+NO input flow: 8.95817m³/s
+O2 input flow: 9.92846m³/s
+N2 input flow: 6.01315m³/s
+Cooler:
+Output flow: 9.35889m³/s
+Input temperature: 958.357°C
+
+Measurement results at 2020-12-16 18:48:04
+Furnace:
+Inside temperature: 968.302°C
+Gas inlet flow: 3.64212m³/s
+Gas outlet flow: 3.16022m³/s
+Mixer:
+NO input flow: 11.0219m³/s
+O2 input flow: 0.608303m³/s
+N2 input flow: 3.06426m³/s
+Output flow: 19.5399m³/s
+Bubbler:
+Temperature: 79.6813°C
+Level: 61%
+Cooler:
+Input flow: 8.15425m³/s
+Output flow: 10.0343m³/s
+Input temperature: 932.636°C
+Output temperature: 99.6524°C
+
+Measurement results at 2020-12-16 18:48:34
+Furnace:
+Inside temperature: 884.638°C
+Gas inlet flow: 3.85244m³/s
+Gas outlet flow: 3.12831m³/s
+Mixer:
+NO input flow: 10.0035m³/s
+O2 input flow: 6.24617m³/s
+N2 input flow: 1.04987m³/s
+Output flow: 18.8999m³/s
+Bubbler:
+Temperature: 57.2786°C
+Level: 80%
+Cooler:
+Input flow: 8.59705m³/s
+Output flow: 4.99055m³/s
+Input temperature: 984.329°C
+Output temperature: 91.1494°C
+
+Measurement results at 2020-12-16 18:48:35
+Mixer:
+NO input flow: 6.917m³/s
+O2 input flow: 5.09174m³/s
+N2 input flow: 10.1534m³/s
+Cooler:
+Input flow: 9.21043m³/s
+Output flow: 6.30363m³/s
+Input temperature: 855.289°C
+Output temperature: 88.1312°C
+
+Measurement results at 2020-12-16 18:48:37
+Mixer:
+N2 input flow: 10.2324m³/s
+Cooler:
+Input flow: 12.6847m³/s
+Output flow: 6.02312m³/s
+
+Measurement results at 2020-12-16 18:48:39
+Mixer:
+NO input flow: 7.00368m³/s
+Output flow: 7.31886m³/s
+Cooler:
+Input flow: 13.1505m³/s
+Input temperature: 967.902°C
+Output temperature: 95.1618°C
+
+Measurement results at 2020-12-16 18:49:04
+Furnace:
+Inside temperature: 985.505°C
+Gas inlet flow: 3.88022m³/s
+Gas outlet flow: 6.05986m³/s
+Mixer:
+NO input flow: 11.4214m³/s
+O2 input flow: 19.8765m³/s
+N2 input flow: 5.01884m³/s
+Output flow: 12.0027m³/s
+Bubbler:
+Temperature: 89.1049°C
+Level: 88%
+Cooler:
+Input flow: 11.7917m³/s
+Output flow: 7.97848m³/s
+Input temperature: 910.756°C
+Output temperature: 98.8801°C
+
+Measurement results at 2020-12-16 18:49:05
+Furnace:
+Inside temperature: 960.929°C
+Gas inlet flow: 3.59594m³/s
+
+Measurement results at 2020-12-16 18:49:06
+Cooler:
+Output temperature: 81.7434°C
+
+Measurement results at 2020-12-16 18:49:35
+Furnace:
+Inside temperature: 928.698°C
+Gas inlet flow: 3.80582m³/s
+Gas outlet flow: 3.24069m³/s
+Mixer:
+NO input flow: 9.27256m³/s
+O2 input flow: 2.65294m³/s
+N2 input flow: 13.6285m³/s
+Output flow: 0.850393m³/s
+Bubbler:
+Temperature: 57.1077°C
+Level: 53%
+Cooler:
+Input flow: 2.74479m³/s
+Output flow: 14.1551m³/s
+Input temperature: 841.211°C
+Output temperature: 88.7155°C
+
+Measurement results at 2020-12-16 18:49:37
+Furnace:
+Inside temperature: 924.541°C
+Gas outlet flow: 3.68669m³/s
+Mixer:
+N2 input flow: 3.25413m³/s
+Output flow: 18.6318m³/s
